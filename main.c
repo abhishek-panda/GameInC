@@ -51,7 +51,7 @@ int processEvents(SDL_Window *window, Man *m) {
         }
     }
 
-    const Uint8 *state = SDL_GetKeyboardState(NULL)
+    const Uint8 *state = SDL_GetKeyboardState(NULL);
 
     return done;
 }

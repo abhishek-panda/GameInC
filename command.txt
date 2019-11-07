@@ -1,1 +1,6 @@
 clang main.c -o game -lSDL2
+
+sudo apt-cache search libsdl2
+sudo apt-get install libsdl2-dev
+
+#include<SDL2/SDL.h>
