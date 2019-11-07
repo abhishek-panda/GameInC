@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<SDL2/SDL.h>
+#include<SDL/SDL.h>
 
 typedef struct
 {
